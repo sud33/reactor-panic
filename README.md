@@ -1,5 +1,7 @@
 # Reactor Panic
 
+![Reactor Panic — a small experiment in AI-assisted engineering](docs/images/reactor-panic-linkedin-thumbnail.png)
+
 [Play Reactor Panic](https://reactor-panic-sudarshan.novalensnorth.chatgpt.site)
 
 A browser-based, seven-round social strategy game for 3–8 players. Everyone shares a failing reactor, but each player builds a personal captain score. Players enter by nickname and six-character room code or invite link. No account is needed.
